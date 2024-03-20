@@ -1,0 +1,10 @@
+{
+    "movies": [
+      { "id": 1, "title": "Blue Velvet", "description": "A dark mystery unveiling suburban Americas seedy underbelly through a young mans discovery." },
+      { "id": 2, "title": "Life is Beautiful", "description": "A touching story of a fathers love and humor protecting his son in a Nazi camp." },
+      { "id": 3, "title": "Spirited Away", "description": "A girls enchanting journey in a spirit world, striving to save her transformed parents."},
+      { "id": 4, "title": "John Wick", "description": "A relentless action-packed tale of a former hitman avenging the wrongs done to him."} 
+      
+    ]
+  }
+  
